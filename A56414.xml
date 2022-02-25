@@ -1,0 +1,592 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parliament arraigned, convicted, wants nothing but execution wherein you may evidently discern all the blessed fruits of their seven years session tending to the dishonour of God, the ruin of the Church of Christ in this kingdom, the vnkinging of His Majesty, the destruction of our laws, the erection of tyranny, and the perpetual bondage of a free-born people / written by Tom Tyranno-Mastix alias Mercvrivs Melancholicvs ...</title>
+            <author>Mercurius Melancholicus, fl. 1648.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56414</idno>
+            <idno type="STC">Wing P498</idno>
+            <idno type="STC">ESTC R11776</idno>
+            <idno type="EEBO-CITATION">13798531</idno>
+            <idno type="OCLC">ocm 13798531</idno>
+            <idno type="VID">101881</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56414)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101881)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 470:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parliament arraigned, convicted, wants nothing but execution wherein you may evidently discern all the blessed fruits of their seven years session tending to the dishonour of God, the ruin of the Church of Christ in this kingdom, the vnkinging of His Majesty, the destruction of our laws, the erection of tyranny, and the perpetual bondage of a free-born people / written by Tom Tyranno-Mastix alias Mercvrivs Melancholicvs ...</title>
+                  <author>Mercurius Melancholicus, fl. 1648.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.]</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from BM.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament.</term>
+               <term>Great Britain --  Politics and government --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:101881:1"/>
+               <pb facs="tcp:101881:1" rendition="simple:additions"/>
+THE PARLIAMENT Arraigned, Convicted; Wants nothing but EXECUTION.</p>
+            <p>Wherein you may evidently diſcern All the bleſſed Fruits of their Seven Years Seſ<g ref="char:EOLhyphen"/>ſion, tending to the <hi>Diſhonour of God,</hi> the <hi>Ruin of the Church of Chriſt</hi> in this Kingdom, the <hi>
+                  <g ref="char:V">Ʋ</g>nkinging of His Majeſty,</hi> the <hi>Deſtruction of our Laws,</hi> the <hi>Erection of Tyranny,</hi> and the <hi>perpetual Bondage of a Free-born People.</hi>
+            </p>
+            <p>Written in the <hi>Year of Wonders,</hi> being the Eighth Year of the Lords and Commons diſſembled at <hi>Weſtminſter;</hi>
+            </p>
+            <p>BY Tom TYRANNO - MASTIX; <hi>alias,</hi>
+            </p>
+            <p>
+               <hi>MERC<g ref="char:V">Ʋ</g>RI<g ref="char:V">Ʋ</g>S MELANCHOLIO<g ref="char:V">Ʋ</g>S,</hi> (Well-wiſher to all ſuch Parliaments) To their Everlaſting Glory, <hi>Amen.</hi>
+            </p>
+            <p>Printed for the Publick View of all His Majeſty's faith<g ref="char:EOLhyphen"/>ful Subjects; and are to be ſold at the old Sign of <hi>You may go Look.</hi> Anno Dom. 1648.</p>
+            <pb facs="tcp:101881:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:101881:2"/>
+            <head>TO THE READER.</head>
+            <p>
+               <hi>TO all or none that ſtyle themſelves with the Title of true</hi> Engliſh; <hi>yet you will ſay, that's a</hi> Bull; <hi>Well, let it be ſo, the Kingdom ſhall have a</hi> Skin, Head, <hi>and</hi> Horns, <hi>and the</hi> Parliament <hi>the</hi> Body. <hi>Here you may ſee, and not ſee; hear, and not hear; judge, and not judge; what the</hi> Author <hi>here pre<g ref="char:EOLhyphen"/>ſents, is for your own, not others Good; you are un<g ref="char:EOLhyphen"/>der a very ſtrong Deluſion; the God of this World hath ſettled ſuch a Dimneſs on your Eyes, that the</hi> Catarrhs <hi>are almoſt irrecoverable; only the</hi> Author, <hi>out of an affectionate Zeal to the</hi> publick Good, <hi>hath compounded this</hi> Collyrium <hi>or</hi> Eye-Salve, <hi>whereby, upon the firſt Receipt, you may eaſily diſcern your priſtine</hi> Freedom, <hi>your preſent</hi> Thraldom, <hi>your</hi> Sovereign's Miſery, <hi>and the</hi> Subject's Sla<g ref="char:EOLhyphen"/>very, <hi>pencil'd in plain</hi> Engliſh, by</p>
+            <closer>
+               <signed>Your well-wiſhing Friend Tom. TYRANNO-MASTIX, <hi>alias MERC<g ref="char:V">Ʋ</g>RI<g ref="char:V">Ʋ</g>S MELANCHOLIC<g ref="char:V">Ʋ</g>S.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:101881:3"/>
+            <div type="part">
+               <head>To the Work.</head>
+               <l>Go little Creature, in thy poor Attire,</l>
+               <l>And crave a Kiſs at every Hand thou meets;</l>
+               <l>Although thou halt no Merit to admire,</l>
+               <l>Yet be the bolder tho' thou beggeſt i'th' Streets.</l>
+               <l>If th'ask, what art? bid them look in and ſee,</l>
+               <l>Then Ten to One but thou ſhalt welcome be.</l>
+            </div>
+            <div type="part">
+               <head>To all true Subjects.</head>
+               <l>As a Co-partner in your ſad Complaints,</l>
+               <l>To hear the doleful Sighing of your Souls,</l>
+               <l>I truly ſorrow, yea my Spirit ſaints,</l>
+               <l>To ſee you periſh thro' the proud Controules</l>
+               <l>Of <hi>Faction;</hi> yet let this your Hopes maintain;</l>
+               <l>
+                  <hi>The Sun, tho' bid in Clouds, will ſhine again.</hi>
+               </l>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>To the</hi> Parliament.</head>
+               <l>They ſtumble ſoon, that going, gaze on Stars;</l>
+               <l>Your lofty Flight doth predicate a Fall:</l>
+               <l>The ſweeteſt Sins, when ſtrain'd to th' higheſt Jars:</l>
+               <l>Heark, how ſwift, Vengeance croaks your Funeral.</l>
+               <l>Tho' Heaven hath ſeem'd to ſmile, and Time comply<hi>:</hi>
+               </l>
+               <l>Your Doom is juſt, and you condemn'd to die.</l>
+            </div>
+            <closer>Sæpe ſiniſtra cava prædixit ab ilice cornix.</closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:101881:3"/>
+            <head>THE Parliament Arraign'd, <hi>&amp;c.</hi>
+            </head>
+            <p>THere ſtands an Iſland between the <hi>At<g ref="char:EOLhyphen"/>lantick</hi> and <hi>Ducalidon</hi> Seas, ſtored with all the chiefeſt Treaſures of Nature; for Martial Achievements honourable through the World, famous in the Production and Government of many glorious Kings and Princes, where Peace did ſpread her ſilver Wings; and Chriſtian Unity, from the root of unfeigned Love, did branch itſelf unto the fartheſt Boundaries of the Land, that the neighbouring Nations might participate and taſte the Fruit thereof.</p>
+            <p>But as nothing viſible can challenge Perma<g ref="char:EOLhyphen"/>nency; ſo Fortune, ambitious to ſhow herſelf Omnipotent, took Spleen againſt this Iſle, and thereupon, in a raging Mood, ſhut in her Day of Beauty, Love, and Peace, with diſmal Clouds of Contention, blaſts all her Roſes and Lillies of Happineſs, and long-enjoy'd Amity, with the noiſom and peſtiferous Showers of a ſanguino<g ref="char:EOLhyphen"/>lent and bloody War. Thus it began.</p>
+            <p>The King thereof being of a tractable Nature, and too Liberal, guilty in the ſatisfying the ambitious Deſires of his Servants, cauſed ſome
+<pb n="6" facs="tcp:101881:4"/>
+particular Murmurings among the People; which once kindled, could not be allay'd with<g ref="char:EOLhyphen"/>out a Parliament, (a Convention of Lords and Commons, a Cuſtom in neceſſitous Times, con<g ref="char:EOLhyphen"/>tinually uſed in that Iſle; that is to ſay, divers of the chiefeſt of them drawn into one unite Body; but no ſooner were they, by Royal Au<g ref="char:EOLhyphen"/>thority, convened, but every Frog began to ſwell into an Elephant, to lift up their Heels againſt their Head, and kick at that Majeſty who had given them Being <hi>(an Act of greateſt Inhumanity!)</hi> who then, too late, did ſee, <hi>Tho' Kings are Gods', yet they live in Palaces of Fleſh.</hi> But Treaſon never went without a juſt Reward; and this Parliament ſhall be enroll'd in the Mo<g ref="char:EOLhyphen"/>numents of Fame, for the moſt traiterous that ever was; who, inſtead of curing the National Maladies, added freſh Fuel to their encreaſing Flames; dethrones their Liege Lord and Sove<g ref="char:EOLhyphen"/>reign, raiſes a moſt dreadful and bloody War, lays heavier Burdens than <hi>Pharaoh</hi>'s Task-maſters on the People, and finally, brought a general Ruin and Deſtruction on the Kingdom.</p>
+            <p>Whereupon, the abuſed People, finding <hi>(in theſe)</hi> the Stream of their Affections in another Courſe, and altogether exhauſted of all popular Privilege, (beſides having ſuffer'd ſuch inſup<g ref="char:EOLhyphen"/>portable Tyrannies, contrary to their intended Principles) repairs to common Juſtice for Re<g ref="char:EOLhyphen"/>dreſs, who freely granted out this Hue and Cry.
+<pb n="7" facs="tcp:101881:4"/>
+            </p>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>
+                        <hi>To all Mayors, Sheriffs, Bailiffs, Conſtables,</hi> &amp;c. <hi>(except thoſe are hereafter excepted,</hi> viz. <hi>Mr. Mayor of</hi> London, <hi>Mr. Mayor of</hi> Weſtcheſter, <hi>Mr. Mayor of</hi> Newcaſtle, <hi>Mr. Mayor of</hi> Wind<g ref="char:EOLhyphen"/>ſor, <hi>not forgetting Mr. Mayor of</hi> Eaſt-Looe <hi>in</hi> Cornwal, <hi>and all other the Independent Tribe, the Family of publick Faith, and Fraternity of free Liberty) and to every of them.</hi>
+                     </salute>
+                  </opener>
+                  <p>THeſe are, in his Majeſty's Name, ſtrictly to charge and command you, and every of you, that immediately, upon Sight hereof, you make Hue and Cry within your ſeveral Precincts and Counties, after a loathed, traiterous, and rebellious Parliament, that was begotten in an ill Hour; brought forth in Diviſion, and bred up in Faction and Oppreſſion; of a bloody Countenance, hard Heart, and ſeared Conſci<g ref="char:EOLhyphen"/>ence; that hath brought all the Plagues of God upon a Nation, turned the Church out of Doors, the King out of his Throne, our Love into Ha<g ref="char:EOLhyphen"/>tred, our Peace into War, our Plenty into Po<g ref="char:EOLhyphen"/>verty; that hath robb'd the whole Kingdom both of Eſtate and Happineſs, changed Law into Liberty, Religion into Hereſy, our Freedom into Slavery; and brought upon an innocent People, (inſtead of Bleſſing) Mourning, Woe, Lamentation, and Deſtruction; And upon Sight of him, to apprehend him, and bring before us, his Majeſty's Juſtices of the Peace, to be dealt with, and proceeded againſt, according to the Laws of this Land in ſuch Caſes made and pro<g ref="char:EOLhyphen"/>vided. Hereof fail not, at your utmoſt Peril.</p>
+                  <closer>
+                     <dateline>Given under our Hands, <date>the firſt Year of his Majeſty's ſad Im<g ref="char:EOLhyphen"/>priſonment at <hi>Carisbrook-Caſtle,</hi> in the Iſle of <hi>Wight.</hi>
+                        </date>
+                     </dateline>
+                     <signed>
+                        <list>
+                           <head>Knights Justices of Peace and Quorum</head>
+                           <item>Faithful <hi>Philolaus,</hi>
+                           </item>
+                           <item>Loyal <hi>Intention</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <pb n="8" facs="tcp:101881:5"/>
+No ſooner was this Hue and Cry in ſeveral Copies diſperſed to the Mercy of the four Winds, but, as if Heaven and Earth had conſpir'd to<g ref="char:EOLhyphen"/>gether againſt Treaſon and Rebellion, they unite their Forces; the Winds bellow, the Waves beat, the Earth trembles at the Thought of ſuch an hideous Malefactor: Officers of all degrees, ſuſpend the neceſſity of their own Af<g ref="char:EOLhyphen"/>fairs to proſecute the Command. At laſt, one Mr. <hi>Diligent-Enquiry,</hi> Conſtable for the City of <hi>Weſtminſter,</hi> (according to his accuſtom'd Vigi<g ref="char:EOLhyphen"/>lancy) upon privy Search, found the Body of this Traytor divided into Members; ſome of them in a Bawdy-houſe, ſome in Taverns, ſome in Tobacco-ſhops, ſome licking their Fingers at a Three-penny Ordinary, ſome lapping Inde<g ref="char:EOLhyphen"/>pendent Plumb-broth in the Devil's Cook-room at Hell in <hi>Weſtminſter,</hi> ſome at Goldſmiths-Hall at Dinner, made of the Fat and Rapine of the People; ſome making Compounds of many ſim<g ref="char:EOLhyphen"/>ple Delinquents, ſome he found tormenting Souls in the Compoſition of <hi>Tophet,</hi> ſome caſting ſtrange Guns, and Ordinances, to beat down Religion about the Kingdom's Ears, and to bat<g ref="char:EOLhyphen"/>ter our fundamental Laws to Atoms, and com<g ref="char:EOLhyphen"/>mand the whole Eſtates of the Land under their Lee; ſome, as buſy as Bees, gathering the <hi>Ci<g ref="char:EOLhyphen"/>cropean</hi> Honey-money of this Iſle into their own Hives, <hi>&amp;c.</hi> Which ſeveral Members, Mr. <hi>Di<g ref="char:EOLhyphen"/>ligent Enquiry</hi> having gleaned into a Body, brought before Mr. <hi>Legal Authority,</hi> Juſtice of the Peace and <hi>Quorum;</hi> who finding the Malefa<g ref="char:EOLhyphen"/>ctor guilty of many bold Abuſes, bloody, rebel<g ref="char:EOLhyphen"/>lious, and incomparable Treaſons, commit him to the common Gaol, there to remain, without
+<pb n="9" facs="tcp:101881:5"/>
+Bail or Mainprize, until the grand Aſſize, where, at preſent, we leave him, deſiring the Reader to peruſe this enſuing Table.</p>
+            <list>
+               <item>Lord Righteous, <hi>Judge.</hi>
+               </item>
+               <item>Clerk of the Aſſize, Sir <hi>Faithful Philolaus.</hi>
+               </item>
+               <item>Juſtices of the Peace and Quorum.
+<list>
+                     <item>Sir <hi>Loyal Philalethes,</hi>
+                     </item>
+                     <item>Mr. <hi>Legal Authority,</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>CRYER.</item>
+               <item>
+                  <hi>Grand Inqueſt.</hi>
+                  <list>
+                     <item>Mr. Nobleman.</item>
+                     <item>Mr. Knight.</item>
+                     <item>Mr. Eſquire.</item>
+                     <item>Mr. Gentleman.</item>
+                     <item>Mr. Publick-Good.</item>
+                     <item>Mr. Common-Loſs.</item>
+                     <item>Mr. Common-Intereſt.</item>
+                     <item>Mr. Allegiance.</item>
+                     <item>Mr. Conformity.</item>
+                     <item>Mr. Orthodox.</item>
+                     <item>Mr. Unity.</item>
+                     <item>Mr. Charity.</item>
+                     <item>Jury of Life and Death
+<list>
+                           <item>Free-Man.</item>
+                           <item>Rich-Man.</item>
+                           <item>Poor-Man.</item>
+                           <item>Innocent-Man.</item>
+                           <item>Patient-Man.</item>
+                           <item>Loyal-Man.</item>
+                           <item>Honeſt-Man.</item>
+                           <item>Quiet-Man.</item>
+                           <item>Well-meaning Man.</item>
+                           <item>Enſlaving-Man.</item>
+                           <item>Loſt-All.</item>
+                           <item>Undone.</item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Parliament, <hi>Malefactor.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Neceſſity, <hi>Proſecutor.</hi>
+               </item>
+               <item>Witneſſes.
+<list>
+                     <item>Jealouſies and Fears,</item>
+                     <item>Blood,</item>
+                     <item>Widows Sighs,</item>
+                     <item>Orphans Tears.</item>
+                     <item>Publick Faith,</item>
+                     <item>Soldier Conſcience,</item>
+                  </list>
+               </item>
+               <item>Attorney-General, <hi>Equity.</hi>
+               </item>
+               <item>Counſellor, <hi>No-Bribe.</hi>
+               </item>
+               <item>Plaintiffs for the Priſoner.
+<list>
+                     <item>Synod,</item>
+                     <item>Scot,</item>
+                     <item>Independency,</item>
+                  </list>
+               </item>
+            </list>
+            <p>Thus the Court being complete, I muſt preſs ſome neceſſary impoſitions upon the Rea<g ref="char:EOLhyphen"/>der, eſſential to the proſecuting of our Work
+<pb n="10" facs="tcp:101881:6"/>
+in hand: Therefore, courteous Reader, under<g ref="char:EOLhyphen"/>ſtand that we ſhall proceed as near as we can in order of a Seſſions, where the Court being ſet, the Jury impanel'd, the Witneſſes ſworn, the Priſoner is call'd to the Bar, his Indictment is read, and according to the Evidence brought in againſt him, he is found guilty of High-Trea<g ref="char:EOLhyphen"/>ſon, againſt God, his King, and Country; ar<g ref="char:EOLhyphen"/>raign'd, convicted and condemn'd. Therefore, for Brevity ſake, we ſhall paſs by ſome things as unneceſſary, and proceed in order; There<g ref="char:EOLhyphen"/>fore, I deſire thee to imagine the Court ſet, the Jury ſworn, <hi>&amp;c.</hi> and the Jaylor commanded to ſet the Priſoner to the Bar.</p>
+            <p>The Indictment read by the <hi>Clerk.</hi>
+            </p>
+            <sp>
+               <speaker>Clerk.</speaker>
+               <p>Mr. <hi>Parliament,</hi> hold up thy Hand at the Bar. (look on the Priſoner, Maſters of the Jury) Thou art indicted in the Name of our So<g ref="char:EOLhyphen"/>vereign Lord King <hi>Charles,</hi> by the Name of <hi>Parliament:</hi> That whereas againſt the Laws of God, and the Laws of Nature, and the Laws of our Sovereign Lord the King; thou haſt traiterouſly and feloniouſly rais'd War againſt thy King, that thou haſt made thyſelf drunk with the Blood of his Loyal Subjects; and (pre<g ref="char:EOLhyphen"/>tending Liberty) haſt perſecuted even unto Death; not ſparing the Prophets, but moſt bar<g ref="char:EOLhyphen"/>barouſly haſt murder'd them, flung them into Priſons, ſtarv'd them, <hi>&amp;c.</hi> and exercis'd all manner of Impiety againſt God, againſt the King, againſt the fundamental Laws, and a<g ref="char:EOLhyphen"/>gainſt the People. Againſt God by Blaſphemy, Sacrilege, and Perjury, and all Prophaneneſs; againſt the King, by robbing him (not only of his People) but of his Power, his Crown, his
+<pb n="11" facs="tcp:101881:6"/>
+Revenue, Houſes, Lands, Goods, <hi>&amp;c.</hi> Againſt the People by ſhedding their innocent Blood, leading them by the Noſes, making them fight with one another, kill one another, not knowing why, nor wherefore, polling them by illegal Impoſitions, and pilling them by no better than Monopolies, Taxes, Sequeſtrations, Plunders, and all manner of Rapine, to the utter Undoing and Impoveriſhing of them, or the moſt part of them, amuſing them with Fears and Jealouſies, and making them (like cunning Jugglers) be<g ref="char:EOLhyphen"/>lieve any thing, tho' never ſo falſe, by caſting a Miſt before their Eyes, till thou haſt pick'd their Pockets; and this hath been their chief Art theſe ſeven Years, as by woful Experience we ſee at this day without Spectacles, what innumerable Tricks have been uſed to milk the Purſes of the People, under Colour to maintain a War againſt the King and his evil Council, when it was to ruin the People, to impoveriſh them, and bring them into irrecoverable Slavery and Oppreſſion under a tyrannical Parliament, and more than a tyran<g ref="char:EOLhyphen"/>nical and inſulting Army; that have ſought all Ways to murder your Prince; firſt, having pulled out of the Church, Biſhops, and cry'd down all Order and Diſcipline, to place in their ſtead, Babes of Grace, pure Parricides, Inde<g ref="char:EOLhyphen"/>pendents and apoſtated Levites, <hi>Sedgwick, Bur<g ref="char:EOLhyphen"/>geſs, Martial,</hi> and the whole Tribe of <hi>Many-Aſſes,</hi> and Owls of the Aſſembly, that you knew you could make preach, or do what you could deſire, tho' never ſo contrary to Truth, Reli<g ref="char:EOLhyphen"/>gion, or Reaſon, tho' to countenance bloody and abhorred Actions, murder Kings, and the like: That, the better to enſlave the People,
+<pb n="12" facs="tcp:101881:7"/>
+you have enter'd into a deviliſh and dangerous Combination to deſtroy Monarchy, to introduce Anarchy, to engroſs the Militia and Power of the Sword to effect your curſed Deſigns: That you have ſet up intolerable Taxes, inſtead of pulling down Monopolies: That you have uſed Religion for a Cloak for your Knavery, giving Thanks for ſhedding of Blood, tyrannizing over both the Perſons and Purſes of the People, with intent to inſlave and vaſſal both them and their Poſterity: That you have moſt traiterouſly gull'd his Majeſty into Priſon, with intent to murder him, the better to keep it from the Peoples Knowledge.</p>
+               <p>What ſay'ſt thou, Parliament? art thou guil<g ref="char:EOLhyphen"/>ty of this Treaſon, or not?</p>
+            </sp>
+            <sp>
+               <speaker>Parl.</speaker>
+               <p>Not guilty, not guilty, my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Clerk.</speaker>
+               <p>How wilt thou be tried?</p>
+            </sp>
+            <sp>
+               <speaker>Parl.</speaker>
+               <p>By God and my Conſcience.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Nay, for thy Conſcience, that's as wide as Hell itſelf, as may appear by thy Indict<g ref="char:EOLhyphen"/>ment. What can the Witneſſes ſay concerning the Priſoner? Call them in.</p>
+            </sp>
+            <sp>
+               <speaker>Cryer.</speaker>
+               <p>If any Man can give Evidence, or ſay any thing againſt the Priſoner, let him come forth, for the Priſoner ſtands upon his Delive<g ref="char:EOLhyphen"/>rance.</p>
+            </sp>
+            <sp>
+               <speaker>Clerk.</speaker>
+               <p>Call in <hi>Jealouſies and Fears, Blood, Wi<g ref="char:EOLhyphen"/>dows Sighs, Orphans Tears, Publick Faith, Soldiers Conſcience.</hi> Come forth and proſecute, or you forfeit your Recognizance.</p>
+            </sp>
+            <sp>
+               <speaker>Cryer.</speaker>
+               <p>Every Man keep Silence, upon Pain of Impriſonment.</p>
+               <p>The Witneſſes are ſworn, every one accord<g ref="char:EOLhyphen"/>ing to his Knowledge, to give a true Evidence for the King againſt the Priſoner at the Bar.</p>
+            </sp>
+            <sp>
+               <pb n="13" facs="tcp:101881:7"/>
+               <speaker>Clerk.</speaker>
+               <p>Jealouſies and Fears, Stand up. What can you ſay for the King, againſt the Priſoner at the Bar?</p>
+            </sp>
+            <sp>
+               <speaker>Jeal. and Fears.</speaker>
+               <p>O, my Lord, I have been made uſe of, upon all Occaſions, to delude the People, and to make them think of Danger where none was. My Lord, I was meerly drawn in by the Priſoner for his own Turn, ſince he ſent me packing when he had ſerved his own End of me. <hi>Blood</hi> can give you a more clear Evidence.</p>
+            </sp>
+            <sp>
+               <speaker>Clerk.</speaker>
+               <p>Blood, Stand up. What can'ſt thou ſay for the King, againſt the Priſoner at the Bar?</p>
+            </sp>
+            <sp>
+               <speaker>Blood.</speaker>
+               <p>My Lord, I ſhall cry continually againſt this curſed Horſe-leech, that hath gorged him<g ref="char:EOLhyphen"/>ſelf with me ſo full, that he hath ſpewed me up again, till the Earth hath been made as drunk with me as the Sword, from the Blood of <hi>Straf<g ref="char:EOLhyphen"/>ford</hi> to the Blood of 100000 Innocents, <hi>Canter<g ref="char:EOLhyphen"/>bury, Tomkins, Challenor, Burley</hi> the King's Meſſen<g ref="char:EOLhyphen"/>ger, the <hi>Surrey-Men,</hi> and an infinite many more, that have been barbarouſly and inhumanely ſlain for their Allegiance and Fidelity to their Royal Sovereign; nay, my Lord, they are ſo Inſatiate, that nothing can quench their Thirſts, but Royal Blood, the Blood of the King, and all his Royal Progeny, in which he would waſh his Hands, if poſſibly he could attain to his Ends; ſo that the whole Earth is filled with Blood and Violence, Father againſt Son, Brother againſt Brother, and one Friend againſt another. Tho' <hi>Curſed is he that ſhall ſlay an innocent Perſon, and all the People ſhall ſay, Amen,</hi> Deut. xxix. 25. <hi>The Land that ſheddeth innocent Blood, innocent Blood ſhall be upon it,</hi> Deut. xix. 10. And, <hi>Innocent Blood the Lord</hi>
+                  <pb n="14" facs="tcp:101881:8"/>
+                  <hi>will not pardon,</hi> 2 Kin. xxiv. 4. Yet, my Lord, this Traytor hath made a Trade of ſhedding innocent Blood, and doth ſtill to this Day.</p>
+            </sp>
+            <sp>
+               <speaker>Clerk.</speaker>
+               <p>Wid. Sighs, Stand up. What can you ſay for the King, againſt the Priſoner at the Bar?</p>
+            </sp>
+            <sp>
+               <speaker>Wid. Sighs.</speaker>
+               <p>My Lord, my Heart and a Thou<g ref="char:EOLhyphen"/>ſand more are ſo broke with weeping for the Death of our Husbands and dear Children, whoſe Lives this Traytor hath taken away, that we cannot ſpeak more for weeping, but ſtill cry out for Vengeance againſt this Parricide, this bloody Murderer.</p>
+            </sp>
+            <sp>
+               <speaker>Clerk.</speaker>
+               <p>Orph. Tears, Stand up. What can'ſt thou ſay for the King, againſt the Priſoner at the Bar?</p>
+            </sp>
+            <sp>
+               <speaker>Orp. Tears.</speaker>
+               <p>My Lord, I loſt my Father by this cruel Traytor, and ſo have many Thouſands of us, and have cried unto Heaven for Vengeance againſt him; that is all I could do, or can ſay.</p>
+            </sp>
+            <sp>
+               <speaker>Clerk.</speaker>
+               <p>Publ. Faith, Stand up. What can'ſt thou ſay for the King, againſt the Priſoner at the Bar?</p>
+            </sp>
+            <sp>
+               <speaker>Publ. Faith.</speaker>
+               <p>My Lord, he hath been the Con<g ref="char:EOLhyphen"/>fuſion of me; I could recount innumerable Tricks to drain the People, and to milk their Purſes of their Money, as the free Loans and Contribu<g ref="char:EOLhyphen"/>tions upon poor Publick Faith, amounting to vaſt and incredible Sums, Money, Plate, Horſes and Arms, Bodkins, Thimbles, Wedding-Rings, <hi>&amp;c.</hi> and a thouſand more that he hath uſed to enſlave the People.</p>
+            </sp>
+            <sp>
+               <speaker>Clerk.</speaker>
+               <p>Soldiers Conſcience, Stand up, and give Evidence for the King, againſt the Priſoner at the Bar?</p>
+            </sp>
+            <sp>
+               <speaker>Cryer.</speaker>
+               <p>Call Soldiers Conſcience.</p>
+            </sp>
+            <sp>
+               <pb n="15" facs="tcp:101881:8"/>
+               <speaker>Cryer.</speaker>
+               <p>Soldiers Conſcience, Soldiers Conſci<g ref="char:EOLhyphen"/>ence, Come into the Court, and give Evidence for the King, againſt the Priſoner at the Bar, or elſe you forfeit your Recognizance.</p>
+            </sp>
+            <sp>
+               <speaker>Clerk.</speaker>
+               <p>My Lord, he is ſlipt away, being afraid to appear in the Face of the Court; 'tis likely he is a party with the Priſoner.</p>
+            </sp>
+            <sp>
+               <speaker>Righ. Judge.</speaker>
+               <p>There be Witneſſes enough with<g ref="char:EOLhyphen"/>out him. Maſters of the Jury, you hear what is prov'd againſt him; how traiterous he hath been againſt God, his King and Country, againſt the fundamental Laws of the Kingdom, in that he hath renounced his ſworn Allegiance, when it is declar'd, 3 <hi>Jac. cap.</hi> 4. <hi>That if any Perſon ſhall put in Practice, to abſolve, perſuade, or withdraw any of his Majeſty's Subjects from their Obedience to his Majeſty, his Heirs or Succeſſors, or move them, or any of them, to promiſe Obedience to any other Prince, State, or Potentate; that then every ſuch Perſon, their Procurers, Counſellors, Aiders and Maintainers, ſhall be adjudged Traytors.</hi>
+               </p>
+               <p>None can deny, but the Head is over the Members, and not the Members over the Head: all Subjects being to perform both <hi>Active</hi> and <hi>Paſſive Obedience</hi> to their lawful King, (as the Members to the Head) in all Cauſes, at all Times, and in all Places: But this Priſoner, Mr. <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> is notorious Guilty; for the King being Head, Beginning and End of a Parliament, and no Act can be made without the King's Aſſent, therefore this Parliament ſtandeth guilty of Per<g ref="char:EOLhyphen"/>jury, by encroaching upon the Juriſdictions be<g ref="char:EOLhyphen"/>longing to the King; and hath falſified their Faith, by voting, <hi>That no more Addreſſes ſhould be made to him, or Meſſages receiv'd from him.</hi> No
+<pb n="16" facs="tcp:101881:9"/>
+Law can make a Servant to be above or greater than his Maſter, nor a Subject greater than his King; for the King having an undoubted Right to the Crown, and being his lawful Sovereign, and his Allegiance being due unto his Natural Perſon, both by the Law of God, Nature, and the Law of the Land, recogniz'd and acknow<g ref="char:EOLhyphen"/>ledg'd by former Parliaments in all Ages, con<g ref="char:EOLhyphen"/>firm'd by undeniable Authorities in Law, upon Record, that evidently proves, that his Allegi<g ref="char:EOLhyphen"/>ance is due unto his Natural Perſon, by the Law of God, Nature, and the Law of the Land, and can neither be abjured, releaſed, or renounced, being inſeparable from the Perſon of the King, and indiſpenſably due from the Priſoner to his Majeſty. Therefore, any reaſonable Man may conclude, that Mr. <hi>Parliament</hi> hath perjur'd him<g ref="char:EOLhyphen"/>ſelf in withdrawing his Allegiance from his Liege Lord the King, which is directly againſt the Law of the Land; and hath, moreover, fal<g ref="char:EOLhyphen"/>ſified his Faith and Allegiance to his King, God's Anointed, and crowned his natural Liege Lord, Sovereign and lawful King, both by Deſcent, Coronation, Inveſture, and undoubted Right, which by the Law of the Land is due unto him from all his Subjects, every one of them having taken this following Oath.</p>
+               <p>
+                  <hi>To be true and faithful to their Sovereign Lord K.</hi> Charles, <hi>and his Heirs, and Faith and Truth ſhall bear to him of Life and Member, and Honour. And you ſhall neither know, nor hear of any Ill or Damage intended unto him, that you ſhall not de<g ref="char:EOLhyphen"/>clare:</hi> So help you God.</p>
+               <p>
+                  <pb n="17" facs="tcp:101881:9"/>
+Now (pray mark it Jury) you are to conſi<g ref="char:EOLhyphen"/>der, Whether this Priſoner hath any Power a<g ref="char:EOLhyphen"/>gainſt the King, or whether the King hath not Power to hang him for his moſt deteſtable Trea<g ref="char:EOLhyphen"/>chery againſt his Perſon, in betraying it to Pri<g ref="char:EOLhyphen"/>ſon, againſt the Law of God, Nature, and the Law of the Land, the Cloſlier to murder and make him away, as may more evidently appear by the Examinations, upon Oath, of Mr. <hi>Oſ<g ref="char:EOLhyphen"/>burn</hi> and <hi>Dowcet,</hi> againſt <hi>Rolf,</hi> that ſhould have been the accurſed Inſtrument to make him a<g ref="char:EOLhyphen"/>way, either by Poiſon, or Piſtolling, or other<g ref="char:EOLhyphen"/>wiſe: The King hath no Supreme but God a<g ref="char:EOLhyphen"/>lone, and it is ſufficient Puniſhment for him, becauſe he muſt expect God to be the Revenger if he commits any Wrong; for every Man is under the King, and the King under none but God alone; he is not inferior to his Subjects; he hath no Peer in his Realm; he hath the ſole Government of his Subjects. Therefore, Mr. <hi>Parliament,</hi> thou heareſt what is objected againſt thee; thou haſt now Liberty to anſwer for thy ſelf, <hi>Guilty,</hi> or, <hi>Not Guilty.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Parl.</speaker>
+               <p>My Lord, I little weigh what any of theſe can ſay againſt me, and am ſo far from acknowledging the leaſt Circumſtances objected againſt me, that I utterly deny all, and claim my Privilege.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Thou art quite paſt Shame and Grace, and ſurely given thy ſelf to the Devil, elſe thou could'<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t never have the Face to deny the leaſt Tittle. Is this all thou canſt ſay for thy ſelf?</p>
+            </sp>
+            <sp>
+               <speaker>Parl.</speaker>
+               <p>More than I need to ſay; yet I ſhall ſpeak a Word or two to the People: Did not
+<pb n="18" facs="tcp:101881:10"/>
+you chuſe me; cry out for a Parliament, a Par<g ref="char:EOLhyphen"/>liament? Nothing could ſatisfy you but a Parli<g ref="char:EOLhyphen"/>ament; and now you have a Parliament, will you not be ruled by a Parliament? Did not ye bring your Treaſure, and fling it down at my Feet whether I would or no; your Gold, your Silver, your Plate, your Horſes, your very Thimbles and Bodkins, <hi>&amp;c.</hi> O then you'd live and die with me, ſtand up as one Man for me; venture all, Life, Eſtate, and all ye had with me: And pray what have I made uſe of more than you promis'd me? Have not I eas'd you of your Wealth, Religion, King, Laws, and brought you into the bleſſed Liberty of the Saints, that any of you may preach what you will, and do what ye liſt, (ſo it be not againſt me) made you all Kings and Beggars; and am I thus rewarded? Well, <hi>London, London,</hi> 'twas thou—</p>
+            </sp>
+            <sp>
+               <speaker>Right Judge.</speaker>
+               <p>We'll hear no more. Jury, you hear his Imperiouſneſs, Ignorance, and zealous Folly; that ſhews what Degrees he hath taken, from a Cobler to a Preacher, from a Preacher to a Captain, from a Captain to a Committee-man, from a Committee-man to a Colonel, and then he is a Companion for a Prince, nay a King himſelf; rules, reigns, and rebels amongſt his Fellow-Kings, whoſe Lives and Profeſſions, Na<g ref="char:EOLhyphen"/>tures and Arts, Inwards and Outwards, agree in all, like Canters and Gypſies: They are all Zeal, and no Knowledge; all Purity, and no Huma<g ref="char:EOLhyphen"/>nity; all Simplicity, and no Honeſty; and if you be ſure never to truſt them, they will ne<g ref="char:EOLhyphen"/>ver deceive you: Their greateſt Care is to contemn their King; their leaſt Care is to ſerve
+<pb n="19" facs="tcp:101881:10"/>
+God; for they have no more Conſcience to the One, than Fear to the Other: They give Thanks for Victories when they be routed, and relate Battles and Skirmiſhes as Eye-Witneſſes, when they wink'd for Fear, turn'd back, and with their Eyes thieviſhly robb'd a Pamphlet or Bal<g ref="char:EOLhyphen"/>lad for the reſt. Nor <hi>Pilate</hi> nor <hi>Prince</hi> can command him; nay, he will command them, cenſure them at his Pleaſure, and if they will not ſuffer their Ears to be fetter'd with the long Chains of his redious Collations, their Purſes to be emptied with the Inundations of his unſatiate Humour, and their Judgments to be blinded with the Muſſler of his zealous Ignorance, then he is one of the Wicked, a dead Dog, <hi>&amp;c.</hi> In brief, he is nothing but varniſh'd Rottenneſs, full of ſeeming Sanctity, and mental Impiety, an out-ſide Saint and an in-ſide Devil; to con<g ref="char:EOLhyphen"/>clude, he is, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Jury.</speaker>
+               <p>His Cauſe is foul, my Lord, and we ſhall, no doubt, give in juſt Evidence againſt him.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>You of the Jury are ſworn for the King, to give in your Evidence in his Majeſty's Behalf, againſt the Priſoner at the Bar; there<g ref="char:EOLhyphen"/>fore you are now to proceed in your Evi<g ref="char:EOLhyphen"/>dence.</p>
+            </sp>
+            <stage>The Jury go out.</stage>
+            <sp>
+               <speaker>Cryer.</speaker>
+               <p>Make way for the Jury there.</p>
+            </sp>
+            <sp>
+               <speaker>Juſtice.</speaker>
+               <p>I never heard (ſo long as I have been a Juſtice) of ſo notorious a Malefactor, ſo bloody a Miſcreant.</p>
+            </sp>
+            <sp>
+               <speaker>2. <hi>Juſtice.</hi>
+               </speaker>
+               <p>He hath been as great a Robber, my Lord, as ever he was a Blood-ſucker; no<g ref="char:EOLhyphen"/>thing
+<pb n="20" facs="tcp:101881:11"/>
+comes amiſs to him, and his Partner <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rmy;</hi> the poor <hi>Kingſton-Men</hi> dearly ſuffered for St. <hi>Liveſey,</hi> a notorious Thief, who with the reſt of his Faction, ſtole from <hi>Kingſton</hi> upon <hi>Thames,</hi> above 2000 Pounds worth of Cloath: My Lord, here is a poor Clothier deſires a <hi>Hu:</hi> and <hi>Cry</hi> after him.</p>
+            </sp>
+            <sp>
+               <speaker>Juſtice.</speaker>
+               <p>Let the Clerk draw it ſpeedily: If theſe Thieves be ſuffered long in <hi>England,</hi> we ſhall not live to enjoy a Penny in Quiet; let there be all Care taken to apprehend the Thieves.</p>
+            </sp>
+            <stage>Enter the Jury.</stage>
+            <sp>
+               <speaker>Mr. <hi>Freeman.</hi>
+               </speaker>
+               <p>Gentl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>men, you are all agreed that I ſhould give in the Verdict, you ſee the Caſe is plain and evident.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Richman.</hi>
+               </speaker>
+               <p>You ſhall have my Conſent to hang him preſently; I am ſure my Baggs have been emptied, and drained, for him; and yet the Thief called me Traytor, laid me up in the <hi>Tower,</hi> and made a Shew, as if he would have tried me for my Life; but to tell you true, it was for my Means; 'tis High Treaſon for any but an Independent to be rich in theſe Days.</p>
+            </sp>
+            <sp>
+               <speaker>Poor Man.</speaker>
+               <p>Alas! I am undone by him, a Company of the Zaints, as they call them, blun<g ref="char:EOLhyphen"/>dered me, took away my Bald Mare, to make a Dragon on her, and preſſed away my Zon <hi>Dick</hi> too, cham ſure I could neer zet Eye on um zince; a wa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nion on him, he makes me feed upon Bullion, and glad che have it too; O' have my Conſent with all my Heart; wood che had been hang'd Zeven Years ago, then I had had my two Cowes, my Bald Mare, and my Zon <hi>Dick</hi> to dreſs um, and had ought my Landlord, ne'er a Penny a Rent: Hang um, hang um
+<pb n="21" facs="tcp:101881:11"/>
+up, I zay, we ſhall never zee happy Days elſe.</p>
+            </sp>
+            <sp>
+               <speaker>Innocent-Man.</speaker>
+               <p>I have been forced out to fight for I know not what: I have loſt Three Sons in this unnatural War, and yet never could under<g ref="char:EOLhyphen"/>ſtand for what we fight; they made us believe it was for the King, Religion, Laws, and I know not what; but I am ſure it was for our Money: I hope God will make them anſwer for the Blood of my Children; I am ſure the Scripture ſaith. <hi>He that ſheds Man's Blood, by Man ſhall his Blood be ſhed again;</hi> hang him for me, you ſhall have my Conſent.</p>
+            </sp>
+            <sp>
+               <speaker>Patient-Man.</speaker>
+               <p>I am ſure, Neighbours, I paid all Taxes, Impoſitions, and Seſſments, Subſi<g ref="char:EOLhyphen"/>dies, and found Free Quarter to the Soldier, be<g ref="char:EOLhyphen"/>ſides Pole-Money, Free Loans, Contributions, Money, Plate, Men, Horſe, Armes; paid to the Weekly Meals, the Weekly Aſſeſments for <hi>Eſſex</hi> and <hi>Fairfax</hi>'s Army, and yet all I can do is too little for them; I am ſure I am quire undone, and the beſt are no more; I will wait with Pa<g ref="char:EOLhyphen"/>tience, till the Meaſure of their Iniquities are full; the Time cannot be long, if it be not come already; Neighbours, my Verdict is, That he is guilty of Treaſon, Rebellion, and Blood-ſhed, and Theft too; that's my Verdict, I'll promiſe you.</p>
+            </sp>
+            <sp>
+               <speaker>Loyal Man.</speaker>
+               <p>Becauſe God's Word taught me, that I ſhould be obedient to higher Powers, for the Lord's ſake, who himſelf paid Tribute, and was obedient to the Death, ſuffering for the Maintenance of a good Conſcience towards God and Man; beſides, I have bound my ſelf by my Oath of Allegianc, and Supremacy, to be true to my Soveraigne, and know the Fifth Com<g ref="char:EOLhyphen"/>mandment;
+<pb n="22" facs="tcp:101881:12"/>
+and have read that Place in the <hi>Pro<g ref="char:EOLhyphen"/>verbs, My Son, fear thou God, and the King, and meddle not with them that are given to Change.</hi> They have Voted me a Malignant, for loving my King; but ſo long as God hath command<g ref="char:EOLhyphen"/>ed it, I think it better to <hi>obey God than Man;</hi> what, though I am ſpoiled of Goods, locked in Priſon; Obedience is beter than Sacrifice, if I ſuffer for a good Conſcience, <hi>I have a God able to deliver me;</hi> yet my Verdict is, if the Law finds him guilty, (as I make no queſtion but he is) let him ſuffer.</p>
+            </sp>
+            <sp>
+               <speaker>Honeſt Man.</speaker>
+               <p>Methinks a Man ſhould do as he would be done unto; learn to eſchew <hi>Evil,</hi> and do <hi>Good:</hi> Yet it cannot ſink into my Head, that this Parliament at the Bar, hath done one honeſt or juſt Action theſe Seven Years: There<g ref="char:EOLhyphen"/>fore they cannot ſay when they die, Whoſe Ox, or whoſe Aſs, have I taken?</p>
+            </sp>
+            <sp>
+               <speaker>Quiet-Man.</speaker>
+               <p>The Scripture ſays, <hi>Love one another,</hi> not kill one another: And again, <hi>He that ſaith he loves God, and hateth his Brother, is a Lyar; for how can he love God, whom he never ſaw, and hate his Brother, whom he ſeeth every Day:</hi> I hate none, nor will fight with none; for I have learn'd to know from whence comes Wars, Strifes, and Diſſentions, even from their own Luſts. I have no Enemy worſe than my ſelf: Let me fight with my own evil Affections, and conquer them; not for Religion, otherwiſe than the Three Children in the fiery Furnace, <hi>We have a God able to deliver us.</hi> I hold it unlaw<g ref="char:EOLhyphen"/>ful to take up Arms againſt my King, nay, wicked and diabolical; and therefore take him <hi>Derick.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="23" facs="tcp:101881:12"/>
+               <speaker>Wel-meaning-Man.</speaker>
+               <p>I believed him at the firſt, and could not be perſuaded that his Words, and his Intentions, had been died of two ſeveral Colours; but now I ſee he is a meer Jugler, an Impoſtor, and a Parricide, a Thief, and therefore deſerves to be try'd by the known Laws, and to be hang'd, drawn, and quarter'd, that is my Verdict.</p>
+            </sp>
+            <sp>
+               <speaker>Enſlaved-Man.</speaker>
+               <p>Never were Men made ſuch Slaves of, although the Law of the Land ſays, that no Man ſhall be deſtroyed, diſſiezed, or baniſhed, but by the Judgment of his Peers<hi>:</hi> Yet we are Bridled, Sadled, and rid Hack<g ref="char:EOLhyphen"/>ney at their Pleaſure; every louſy Raſcal in the Army ſhall command our Perſons, and Purſes; ſo the Devil rides the Army, the Army rides the Parliament, the Parlia<g ref="char:EOLhyphen"/>ment rides the People, and they, like patient Aſſes, muſt un<g ref="char:EOLhyphen"/>dergo all the Burden, or elſe be Impriſoned, Sequeſtered, Plundered, Taxed, and Undone. I ſay he deſerves Death.</p>
+            </sp>
+            <sp>
+               <speaker>Loſt-all.</speaker>
+               <p>I am ſure I am Plundered of all, they have not left me worth a Groat; what with Free-Quarter, Seſ<g ref="char:EOLhyphen"/>ments, and the Devil and all; I have loſt all that I dearly earned, and laboured for with the Sweat of my Brows, and now I muſt Beg in my old Days; hang him, I ſay.</p>
+            </sp>
+            <sp>
+               <speaker>Undone-Man</speaker>
+               <p>I am not alone undone, many a Thouſand are undone as well as I; the Undones are now the grea<g ref="char:EOLhyphen"/>teſt Family in <hi>England,</hi> (thank this bleſſed Parliament) I know no honeſt Man but is a Kin to the Undones; no Trade but is undone, no City but is undone; none but knaviſh Committee-Men, Parliament-Men, Exciſe-Men, and their Vermin, the Soldiers, thrive in theſe Days; they get, and grow rich, whoſoever looſes: Well, I think this Parliament was begotten in an ill Hour, for we ne<g ref="char:EOLhyphen"/>ver enjoyed happy Days ſince they firſt Sat; they have undone King, Church, and People, and brought all in Bondage, from the higheſt to the loweſt, (themſelves excepted) I ſay, he deſerves to be hanged, drawn, and quartered.</p>
+            </sp>
+            <sp>
+               <speaker>Fore-Man of the Jury.</speaker>
+               <p>You are all agreed then to give in your Verdict?</p>
+            </sp>
+            <sp>
+               <speaker>Omnes.</speaker>
+               <p>We are all agreed; Guilty, guilty.</p>
+            </sp>
+            <sp>
+               <speaker>Gryer.</speaker>
+               <p>Make way there for the Jury.</p>
+            </sp>
+            <sp>
+               <speaker>Righteous Judge.</speaker>
+               <p>Parliament, hold up thy Hand: Ma<g ref="char:EOLhyphen"/>ſters of the Jury, look upon the Priſoner; is he guilty of this Treaſon, Rebellion, Blood-ſhed, Felony, &amp;c. in Manner and Form, as he ſtands indicted, or not guilty?</p>
+            </sp>
+            <sp>
+               <speaker>Fore-Man.</speaker>
+               <p>Guilty, guilty, my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Right-Judge.</speaker>
+               <p>Parliament, thou haſt heard the heinous
+<pb n="24" facs="tcp:101881:13" rendition="simple:additions"/>
+Accuſation that hath been proved againſt thee; what canſt thou ſay for thy ſelf to award the Sentence of Death from paſſing on thee?</p>
+            </sp>
+            <sp>
+               <speaker>Parl.</speaker>
+               <p>The jury have dealt falſly; I appeal to <hi>Synod, Scot,</hi> and <hi>Independency,</hi> to plead my Cauſe.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>There is no Appeal from this Court; beſides, <hi>Synod, Scot,</hi> and <hi>Independency,</hi> are Parties, and ſubborn'd, and as very Thieves as thy ſelf; if thou haſt any thing to ſay, ſpeak, for now the Sentence of Death is paſſing upon thee.</p>
+            </sp>
+            <sp>
+               <speaker>Parl.</speaker>
+               <p>O hold, hold, good, my Lord, have Mercy upon me; I beſeech your Honour for bear Sentence, even for Reformation ſake, the Directory, and New Catechiſm.</p>
+               <p>Good Lord deliver me.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Here is no Place of Mercy for thee<hi>:</hi> God's Ven<g ref="char:EOLhyphen"/>geance cannot be diſpenſed withal, no Priviledge will-help thee here; this is a Court where Juſtice muſt take Place.</p>
+            </sp>
+            <sp>
+               <speaker>Parl.</speaker>
+               <p>I beſeech your Lordſhip for the Mercy of this honourable Bench, let me have the Benefit of the Clergy, <hi>A Pſalm of Mercy,</hi> I beſeech you; let it not be ſaid that a Parliament was hanged.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>No, thou haſt robbed the Clergy, and hadſt no Mercy on thy Brother, neither muſt thou expect any Mercy from this Court; therefore hear thy Sentence, thou haſt been Indicted<g ref="char:punc">▪</g> and Arraign'd of Enmity againſt God, and the King, of Treaſon, Rebellions, Blood<g ref="char:EOLhyphen"/>ſheds, Thefts, <hi>&amp;c.</hi> for thy Tryal thou haſt put thy ſelf upon thy Country, which Country hath found the guil<g ref="char:EOLhyphen"/>ty, thou haſt had Liberty to plead for thy ſelf, to award the Sentence of Death; but canſt not; for thy Guilt is ſo palpably apparent and groſſe, that all the Subtilty, Craft, and Policy, thou canſt deviſe, cannot obſcure thee from the Eye of Juſtice; for this Court, upon thy Tryal, hath found out thy Villany, Treaſon, Blood-ſhed, Sacri<g ref="char:EOLhyphen"/>lege, Theft, and how thou art guilty of all that is laid to thy Charge<g ref="char:punc">▪</g> therefore the Sentence of this Court is, That thou ſhalt return to the Place from whence thou cameſt, and from thence be drawn on a Sledge to the Place of Execution, there be hang'd, drawn and quar<g ref="char:EOLhyphen"/>ter'd: Look to him Jaylor.</p>
+            </sp>
+            <sp>
+               <speaker>Parl.</speaker>
+               <p>Good, my Lord<g ref="char:punc">▪</g> the King's Pardon, I beſeech you<g ref="char:punc">▪</g>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>No, you muſt receive no Meſſage from him<g ref="char:punc">▪</g> take him away Jaylor.</p>
+               <l>All Rebels that make War againſt their King,</l>
+               <l>I hope to ſee them with this Traytor ſwing.</l>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:101881:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
